@@ -1,45 +1,37 @@
 ---
-title: Doctor Wu
+title: Blazer Cloud
 description: About me
 image: https://doctorwu.me/og.png
 decorator: true
 ---
 
-> "The Doctor will see you now."
+> "Welcome to the small world of BC.
+> (Willkommen in der kleinen Welt von BC)"
 
-Hey, I am Doctor Wu, an open source enthusiast.<br>
+Hey, I am Blazer Cloud , an back ending coder and leaner.<br>
 
-Working at {Moego|https://github.com/MoeGolibrary}<br>
-Core team member of {Vue|https://github.com/vuejs} and {VueUse|https://github.com/vueuse/vueuse}<br>
-Recently contributing on {Vue Vapor|https://github.com/vuejs/core-vapor} and {Vue Core|https://github.com/vuejs/core}
+Studing at {TYUT|https://english.tyut.edu.cn/}<br>
 
-I would like you to just call me Doctor<span i-openmoji:tardis op75 />, maybe I will write a blog to explain it in the future.
+I would like you to just call me Cloud, maybe I will not write a blog to explain it in the future.
 
-The beginning of my involvement with OSS was when I started to contribute on {VueUse|https://github.com/vueuse/vueuse}, I found it was a cool repo since it collect so many useful Vue Composition API utilities. I think that will be cool if I can somehow contribute to it. So I started attempt to write some utilities and fix some bugs of it. After some days, I was surprised that &nbsp;<PeopleWithAvatar
- link="https://antfu.me"
- name="Anthony Fu"
- avatarUrl="https://avatars.githubusercontent.com/u/11247099"
-/> invited me to join the core team of VueUse. That's inspired me so much, and that somehow guided me to the path of OSS.
-
-Outside of programming, I like to play basketball, watch movies, and sing karaoke, if you happen to be in the same city (Currently is <span i-material-symbols:location-on-outline />Shenzhen) as me, let's hang out together! As a side-note, I'm Gen-Z and my MBTI type is ESFJ-A.
-
----
+## All the ideas for this website come from <a href=https://doctorwu.me>Doctor Wu</a>
 
 Find me on
 
 <p flex="~ gap-3 wrap" class="mt--2!">
-  <a href="https://github.com/Doctor-wu" target="_blank"><span op75 i-simple-icons-github /> GitHub</a>
-  <a href="https://www.twitter.com/Doctorwu666" target="_blank"><span op75 i-ri-twitter-x-fill /> Twitter</a>
-  <a href="https://discord.gg/WggDRY3K48" target="_blank"><span op75 i-simple-icons-discord /> Discord Server</a>
-  <a href="https://www.youtube.com/Doctorwu666" target="_blank"><span op75 i-simple-icons-youtube /> YouTube</a>
-  <a href="https://www.instagram.com/doctorwu666" target="_blank"><span op75 i-simple-icons-instagram /> Instagram</a>
-  <a href="https://space.bilibili.com/343921694" target="_blank"><span op75 i-simple-icons-bilibili /> 哔哩哔哩</a>
-  <a href="https://www.zhihu.com/people/dtwu666" target="_blank"><span op75 i-simple-icons-zhihu /> 知乎</a>
-  <a href="https://juejin.cn/user/1723677080556621" target="_blank"><span op75 i-simple-icons-juejin /> 掘金</a>
+  <a href="https://github.com/BlazerCloud" target="_blank"><span op75 i-simple-icons-github /> GitHub</a>
+  <a href="https://www.twitter.com/Fx2lvgf" target="_blank"><span op75 i-ri-twitter-x-fill /> Twitter</a>
+  <a href="" target="_blank"><span op75 i-simple-icons-discord /> Discord Server[None(Keiner)]</a>
+  <a href="https://www.youtube.com" target="_blank"><span op75 i-simple-icons-youtube /> YouTube[None(Keiner)]</a>
+  <a href="https://www.instagram.com" target="_blank"><span op75 i-simple-icons-instagram /> Instagram[None(Keiner)]</a>
+  <a href="https://b23.tv/CAYJQrW" target="_blank"><span op75 i-simple-icons-bilibili /> 哔哩哔哩</a>
+  <a href="https://www.zhihu.com/people" target="_blank"><span op75 i-simple-icons-zhihu /> 知乎[None(Keiner)]</a>
+  <a href="https://juejin.cn/user" target="_blank"><span op75 i-simple-icons-juejin /> 掘金[None(Keiner)]</a>
 </p>
 
-If you enjoy my works, consider sponsoring me on <TargetLink href="https://github.com/sponsors/Doctor-wu"><span i-carbon-favorite /> GitHub Sponsor</TargetLink> or <TargetLink href="https://afdian.net/a/doctorwu"><span op75 i-carbon-lightning /> 爱发电</TargetLink> to keep them sustainable.
+If you enjoy Doctor Wu's works, consider sponsoring Doctor Wu on <TargetLink href="https://github.com/sponsors/Doctor-wu"><span i-carbon-favorite /> GitHub Sponsor</TargetLink> or <TargetLink href="https://afdian.net/a/doctorwu"><span op75 i-carbon-lightning /> 爱发电</TargetLink> to keep them sustainable.
 
+said by Doctor Wu:<br>
 This site designs highly inspired by <PeopleWithAvatar
  link="https://antfu.me"
  name="Anthony Fu"
